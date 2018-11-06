@@ -1,0 +1,4 @@
+python==3.7.0
+networkx==2.2
+PuLP
+ipykernel
