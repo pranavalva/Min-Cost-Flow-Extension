@@ -1,4 +1,4 @@
-# DFS Implementation in Python
+# Minimum Cost Flow Extensions
 
 The python notebook consists of a max flow extension implementation of min cost flow and its linear programming solution
 
